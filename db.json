@@ -1,16 +1,11 @@
 {
-	"users": {
-		"user1": {
-			"id": "user1",
-			"user": "user1",
-			"email": "user1@eso.com",
-			"role": "role-1"
-		},
-		"user2":{
-			"id": "user2",
-			"user": "user1",
-			"email": "user1@eso.com",
-			"role": "role-1"
-		}
-	}
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
